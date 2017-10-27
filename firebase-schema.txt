@@ -1,0 +1,36 @@
+Home
+    All Ducks
+
+Profile
+    User Info
+    Users Ducks
+
+Replies
+    Specific Duck
+    Ducks Replies
+
+/users
+    uid
+        info
+    ducks
+        duckId
+            replies
+            info
+            usersWhoHaveLiked
+        likes
+            duckId
+
+/ducks
+    duckId
+        replies
+            replyId
+                name
+                comment
+                etc
+        info
+            uid
+            avatar
+            text
+            etc
+        likes
+            uid
